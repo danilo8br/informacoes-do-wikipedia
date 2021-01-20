@@ -15,4 +15,4 @@ On this first screen, the user will write what he wants to search on wkipedia.
 
 On this second screen, it will show you everything you thought about Neymar.
 
-mage](https://user-images.githubusercontent.com/51414398/105205963-931c7c80-5b24-11eb-9e42-f535c42afa48.png)
+![image](https://user-images.githubusercontent.com/51414398/105205963-931c7c80-5b24-11eb-9e42-f535c42afa48.png)

@@ -5,6 +5,8 @@ The objective of this project is to make any search for information that has wik
 
 ### Why?
 
+Just to practice my Python skills more
+
 # First Screen
 
 On this first screen, the user will write what he wants to search on wkipedia.
